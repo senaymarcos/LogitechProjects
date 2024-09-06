@@ -73,9 +73,6 @@ class MseFunctional:
             if event_to_check == 'wheel_up' or event_to_check == 'wheel_down':
                 self.check_state_event(event_to_check, self.mouse_event())
 
-                # elif event_to_check == 'wheel_down':
-                # self.check_state_event(event_to_check, self.mouse_event())
-
             else:
                 mouse_event_1, mouse_event_2, event_time_diff = self.listen_for_mouse_event()
 

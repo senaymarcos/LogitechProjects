@@ -170,7 +170,7 @@ class DataPlotter:
 
     def report_rate(self):
         """
-            Calculate and visualize the report rate based on monotonic data
+            Calculate and visualize the report rate based on monotonic datas
 
             Notes :
             -Retrieves the monotonic data from the corner values.

@@ -63,7 +63,6 @@ def standart_deviation():
                bbox_to_anchor=(0.9, 0, 0.5, 1))
     plt.xlabel('percentage in pie')
 
-    # plt.ylabel('Probability Density')
     plt.show()
 
 

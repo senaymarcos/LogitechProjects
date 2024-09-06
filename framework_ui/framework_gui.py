@@ -1,7 +1,6 @@
 import math
 import PySimpleGUI as sg
 import socket
-
 from pypqa.services.connection_box import ConnectionBox
 
 
